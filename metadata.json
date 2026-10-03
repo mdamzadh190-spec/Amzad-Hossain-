@@ -1,0 +1,8 @@
+{
+  "name": "PixelLab Web - 3D Text & Graphic Studio",
+  "description": "Complete graphic design suite for YouTube thumbnails, 3D typography, vector shapes, stickers, and custom social media banners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
